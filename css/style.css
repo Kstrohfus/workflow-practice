@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(84, 224, 210);
+    background-color: rgb(224, 84, 161);
     font-family: 'Dosis', sans-serif;
     font-size: 30px;
 }
@@ -28,11 +28,11 @@ img {
 
 
 .code {
-color: rgb(211, 64, 175);
+color: rgb(233, 233, 233);
 }
 
 .random {
-color: rgb(203, 58, 9);
+color: rgb(255, 255, 255);
 text-align: center;
 }
 
