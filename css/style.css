@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(84, 224, 210);
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+}
+
+header{
+background-color: rgb(5, 106, 173);
+color: #ffffff;
+font-size: 48px;
+font-family: 'Dosis',sans-serif;
+text-align: center;
+margin: -8px;
+padding: 0px;
+}
+
+h1{
+color: #d9a521;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+        }
+
+
+.code {
+color: rgb(211, 64, 175);
+}
+
+.random {
+color: rgb(203, 58, 9);
+text-align: center;
+}
+
+.goodbye{
+color: #ffffff;
+text-align: center;
+}
